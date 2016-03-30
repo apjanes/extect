@@ -1,0 +1,25 @@
+{
+  "name": "extect",
+  "version": "0.0.1",
+  "description": "Extensions for expect, the JavaScript assertion framework written by mjackson",
+  "main": "lib/extect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apjanes/extect.git"
+  },
+  "author": "Aaron Janes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apjanes/extect/issues"
+  },
+  "homepage": "https://github.com/apjanes/extect#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "expect": "^1.14.0"
+  }
+}
